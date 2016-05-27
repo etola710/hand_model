@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2016-05-14T16:46:32.1555484+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>Archive\New  Base Bottom.SLDPRT</FileName>
+      <SHA1>5D6D8AF3BA7BD89A203317DBFF49DFA769983C48</SHA1>
+      <FileSize>138459</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\1-4 inch 1 inch length.SLDPRT</FileName>
+      <SHA1>E88CF0FFC77D37D08CF6778A14EB976823400A36</SHA1>
+      <FileSize>72064</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\1-8 inch 1 inch length.SLDPRT</FileName>
+      <SHA1>DAA96FD78345F6DE53ADD3F3483369663EC0ADC0</SHA1>
+      <FileSize>132116</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\1-8_3-8.SLDPRT</FileName>
+      <SHA1>37B33644D0EF3CFA62140A30ED1B1B99AD060CB4</SHA1>
+      <FileSize>120736</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\1st Digit Pad.SLDPRT</FileName>
+      <SHA1>C97500E9C90018BF485E91A3F3C60F19C81E17D5</SHA1>
+      <FileSize>60453</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\2nd Digit Pad.SLDPRT</FileName>
+      <SHA1>A144575A6DE730F0A77DB3D466489F09B6D6A08D</SHA1>
+      <FileSize>101116</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\2nd_tele_part.SLDPRT</FileName>
+      <SHA1>86AFFE1D26300D32592B7F847405AACF34BDC0AC</SHA1>
+      <FileSize>56588</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\3rd_tele_part.SLDPRT</FileName>
+      <SHA1>626D42AC5FB2C860BE5BF5B5E04E742FD33BFC1D</SHA1>
+      <FileSize>79844</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\680_6H_SOLID_1.sldprt</FileName>
+      <SHA1>9001E0B70C101AF0B1F84B90A72DFF53F665C2DF</SHA1>
+      <FileSize>24884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\680_6H_SOLID_2.sldprt</FileName>
+      <SHA1>6EB11B96B78E751A8633C730578F7AEB475ACF37</SHA1>
+      <FileSize>24674</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\680_6H_SOLID_3.sldprt</FileName>
+      <SHA1>8F4DD31FB2C5A6C81E5F094F99C1B102638AD257</SHA1>
+      <FileSize>50341</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\91253A106.SLDPRT</FileName>
+      <SHA1>34BC5FAEF9D683ACCE9F3A4B77E559A4CFD66195</SHA1>
+      <FileSize>434581</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\97395A445.SLDPRT</FileName>
+      <SHA1>2F719F6C882CC31B25B14240D7399698D5B0569A</SHA1>
+      <FileSize>69505</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\98381A470.SLDPRT</FileName>
+      <SHA1>43D830559A5FACB9CC52428566AB4C1EC83A8F85</SHA1>
+      <FileSize>166400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\actuator_w_pulley.SLDASM</FileName>
+      <SHA1>5F879DC791C096F6486B6D8A8C20E8658D2C18C0</SHA1>
+      <FileSize>225284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Base Bottom.SLDPRT</FileName>
+      <SHA1>A6988DC667A76853F924266C46DF5CEDA44DC864</SHA1>
+      <FileSize>182999</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Base Design.SLDPRT</FileName>
+      <SHA1>5CEE50FC89EA92D6AAF96CDF366A83CD64D213F6</SHA1>
+      <FileSize>214891</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Bottom.SLDPRT</FileName>
+      <SHA1>C801477A7F18340AC78C1D23F0DDA6C17F62E558</SHA1>
+      <FileSize>217964</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Bracket.SLDPRT</FileName>
+      <SHA1>574E07BD0D02D5A27B1594457725DDD12B16631C</SHA1>
+      <FileSize>82542</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Cover for Actuator.SLDPRT</FileName>
+      <SHA1>12D58A28B08F55DE0E55F6AF392F51FE926774BC</SHA1>
+      <FileSize>99095</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\cover large Final.SLDPRT</FileName>
+      <SHA1>44002ED31E66079C43314032761A658EBC2C4DDA</SHA1>
+      <FileSize>83197</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\cover.SLDPRT</FileName>
+      <SHA1>A8118582750C45AAF05066AFD137BD31A221C260</SHA1>
+      <FileSize>52511</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Dowel Pins.SLDPRT</FileName>
+      <SHA1>C2C943C34D65B000808A5E8833F3062785B29CEB</SHA1>
+      <FileSize>68700</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\dual_pulley.SLDPRT</FileName>
+      <SHA1>BD92FFFAF8690B3C9BF935E407D9D3550D1A92F1</SHA1>
+      <FileSize>100406</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\fan - 25x25x10.SLDPRT</FileName>
+      <SHA1>9F8857BD12B8A59DADF79191AA1589BF5FE84D40</SHA1>
+      <FileSize>106501</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Fand and Mount Assembly.SLDASM</FileName>
+      <SHA1>D14191F6486A83F8E59478427D22B476731E230A</SHA1>
+      <FileSize>87375</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\fan_plate.SLDPRT</FileName>
+      <SHA1>D3FB8AEBC7CD358FBB3663AD94EF15440BDE6EC8</SHA1>
+      <FileSize>126701</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Finger Model B Base.SLDPRT</FileName>
+      <SHA1>414642C11AB45CEEC0483FABAA497EB4C7ABE763</SHA1>
+      <FileSize>305397</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Finger Model B.SLDPRT</FileName>
+      <SHA1>1B5AA3AC4306AEE45EB9CA1849CF99A4F392FC73</SHA1>
+      <FileSize>392374</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Flexure Joint.SLDPRT</FileName>
+      <SHA1>D7B53753B62F474E7EA25BB550EEE1AEBCCB9A1B</SHA1>
+      <FileSize>46544</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Hand.SLDASM</FileName>
+      <SHA1>059070633ED52B0F4223E5681346510877B6C4AE</SHA1>
+      <FileSize>859347</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Inlet Tube.SLDPRT</FileName>
+      <SHA1>879A42970DCA0A92DBA946CC9E2D32F89CDFD56A</SHA1>
+      <FileSize>78862</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Model B Assembly.SLDASM</FileName>
+      <SHA1>316C04BADD738DA244768BB9D48496CAFD1E93F4</SHA1>
+      <FileSize>628267</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\New Base Design.SLDPRT</FileName>
+      <SHA1>76E3FA5DF84E1113A0DBF4BF7D286D0EFD315098</SHA1>
+      <FileSize>114829</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\New New Base Design.SLDPRT</FileName>
+      <SHA1>B13B58CE36CEB9917D04152FEDEB2D65566AEA4C</SHA1>
+      <FileSize>120203</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\New Pulley General.SLDPRT</FileName>
+      <SHA1>398E24197D7D38383638FF76B4E084BED336F5F4</SHA1>
+      <FileSize>141785</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\palm design.SLDPRT</FileName>
+      <SHA1>52B7C94248B56D475BF05E607B974BEB2CC83680</SHA1>
+      <FileSize>161792</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Palm_Bottom.SLDPRT</FileName>
+      <SHA1>147F613EDF3C71A988379AB2BA614F28D6ABFE40</SHA1>
+      <FileSize>108017</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Palm_Top.SLDPRT</FileName>
+      <SHA1>96EE82092E2D70A697B0BF4DB336FB93D673F261</SHA1>
+      <FileSize>159464</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\pq-12-20_extended.SLDPRT</FileName>
+      <SHA1>38FCCCC00400140981572EE7483084C9D8EF2DC4</SHA1>
+      <FileSize>2210135</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Pulley.SLDPRT</FileName>
+      <SHA1>DE087BD419028F10DE040D96CC2FA6C4874C906E</SHA1>
+      <FileSize>175094</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Pulley_Actuator.SLDPRT</FileName>
+      <SHA1>1F4080994928FEC6FA219BFEE3CB869D5F5DFE02</SHA1>
+      <FileSize>106692</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\pulley_assem.SLDASM</FileName>
+      <SHA1>5D0E08C076E6C3F6A0D0169FBA59E1DA57C84335</SHA1>
+      <FileSize>82184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Pulley_general.SLDPRT</FileName>
+      <SHA1>A43522BE2A52822B1D9904AE043FBF072264AAC8</SHA1>
+      <FileSize>165930</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Pulley_move_able.SLDPRT</FileName>
+      <SHA1>0D3CB18A12EF0F73EB85ECBB39A2886B27969ED3</SHA1>
+      <FileSize>89397</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\pulley_move_assem.SLDASM</FileName>
+      <SHA1>739438BEBB0C11B2EEA410AE58BA83B848A7E6C9</SHA1>
+      <FileSize>169767</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\RX-28.SLDPRT</FileName>
+      <SHA1>1DA50F11B993EA83AA0CE0481BFF51DBE96BA553</SHA1>
+      <FileSize>340187</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\SetScrew.SLDPRT</FileName>
+      <SHA1>8CAFF789C9099665CDC088DF8224FC674C60CF40</SHA1>
+      <FileSize>372902</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\sh_bolt.SLDPRT</FileName>
+      <SHA1>D4DC65D341C2961FC1E29A9D9FA5D66BA14F66BA</SHA1>
+      <FileSize>730920</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\sh_screw_38.SLDPRT</FileName>
+      <SHA1>E476374D6375C934CAAEBE6D5CFB9DB3787570AD</SHA1>
+      <FileSize>502784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\sh_screw_low.SLDPRT</FileName>
+      <SHA1>E3CDE215AE3B5498C0F194C064E4FDFE16ECC57C</SHA1>
+      <FileSize>549888</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\slider_to_tele.SLDPRT</FileName>
+      <SHA1>7BF0C571E9FBD3F048A21D40A3495D198E7A70B1</SHA1>
+      <FileSize>90386</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Support.SLDPRT</FileName>
+      <SHA1>6614DC4315BD716C5F4B9CB34ADA553626250C9F</SHA1>
+      <FileSize>47976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\telescopic link.SLDPRT</FileName>
+      <SHA1>847281DF2FD99F87030BFA27FDC013A5D9062759</SHA1>
+      <FileSize>82706</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\transmissionblockdraft1.SLDPRT</FileName>
+      <SHA1>65813E84E229644DCAFB1F401D63BEBEE8B6E280</SHA1>
+      <FileSize>147661</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\transmission_assem.SLDASM</FileName>
+      <SHA1>66C9FD8E6300FC8F502947EA74CF14B3FDC51A6A</SHA1>
+      <FileSize>99665</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\transmission_assem_L.SLDASM</FileName>
+      <SHA1>D376B0180C051CD1D42A578947D79BB2A3BACF8F</SHA1>
+      <FileSize>1639698</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\transmission_full.SLDASM</FileName>
+      <SHA1>416DE76336204BBAC403E442E3F3E4F7C67A3B77</SHA1>
+      <FileSize>1346094</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\Transmission_LR.SLDASM</FileName>
+      <SHA1>DFA47CEAB7F5B05191D889E9B77FFB73B639A4F7</SHA1>
+      <FileSize>1128340</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\transmission_slider.SLDPRT</FileName>
+      <SHA1>DD86B684633BAAD34468BBC38625DDC8D08DC098</SHA1>
+      <FileSize>112942</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\transmission_tele_block.SLDASM</FileName>
+      <SHA1>2331848EEBF8D0C296F1AD40F27471A5AB0626BD</SHA1>
+      <FileSize>107756</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\transmission_tele_block_L.SLDASM</FileName>
+      <SHA1>99F3137853962C3080221682E9401FCB2BCE84E6</SHA1>
+      <FileSize>111933</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Archive\transmission_w_lin.SLDASM</FileName>
+      <SHA1>7F2197296EE5CF17E80E66501E5A95F69846EC53</SHA1>
+      <FileSize>1148791</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\dynamixel MX-28-exposed.SLDPRT</FileName>
+      <SHA1>E7BF8F0881EE73032E9459D554C287DE6D305DFB</SHA1>
+      <FileSize>1248419</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\gear_MX-28.SLDASM</FileName>
+      <SHA1>FEAE70DEFB68444E4BD5A23864B3A0DA218F7E7B</SHA1>
+      <FileSize>289627</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\pulley_MX-28.SLDASM</FileName>
+      <SHA1>3C2092CEB1892A8D0349AED381B1D3F334C201AC</SHA1>
+      <FileSize>262886</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_b1.SLDPRT</FileName>
+      <SHA1>3740D3E254071278DE4E1FF1B7387342C7703DDB</SHA1>
+      <FileSize>305614</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_b2.SLDPRT</FileName>
+      <SHA1>E591AE7F4104D3ADB0DF82D358052805024C4E05</SHA1>
+      <FileSize>109871</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\wrist_block.SLDASM</FileName>
+      <SHA1>49B24CC22878E6E9AEE8D395506EBC25AAA24B4F</SHA1>
+      <FileSize>394959</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_t2.SLDPRT</FileName>
+      <SHA1>3761BDFBE38BF54B21D2E431DCF63029C0F354B0</SHA1>
+      <FileSize>373651</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common_parts\98381A475.SLDPRT</FileName>
+      <SHA1>D12FB903B0E0ED948AB6D0AFEBB2D213D5B00BDD</SHA1>
+      <FileSize>78777</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common_parts\98381A542.SLDPRT</FileName>
+      <SHA1>30AC91D0DD9F0B5EF9F226E2F2CB42E397CC5FD2</SHA1>
+      <FileSize>89765</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common_parts\al_female_round_standoff.SLDPRT</FileName>
+      <SHA1>FE8739058C180037A4A2AE4FE517C2D22902BB82</SHA1>
+      <FileSize>814659</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>f_files\finger_block.SLDASM</FileName>
+      <SHA1>04B535CF382410A9B09E709B49B841D6CAC0FEFA</SHA1>
+      <FileSize>630866</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>f_files\f_d1.SLDPRT</FileName>
+      <SHA1>497877925363446DB62EAAD23C3952A60D139844</SHA1>
+      <FileSize>239492</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>f_files\f_d2.SLDPRT</FileName>
+      <SHA1>5332AB9FB603C06191AEB80549821E20C661606D</SHA1>
+      <FileSize>226529</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>f_files\f_k1.SLDPRT</FileName>
+      <SHA1>6E64E3BDB1CB3DDC1ED32B0E42C5D115EDD52552</SHA1>
+      <FileSize>195711</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>f_files\knuckle_block.SLDASM</FileName>
+      <SHA1>4618407ECF4A09208CE59CFEFEE3B9D5CD51D17E</SHA1>
+      <FileSize>104346</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\f_stl_files\f_d1.STL</FileName>
+      <SHA1>D76A7F9C85C4B6CACA70E1EED4C46A1C570D32E1</SHA1>
+      <FileSize>133384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\f_stl_files\f_d2.STL</FileName>
+      <SHA1>3E27052E5274C33A5A8ED83A56E7432D6397043C</SHA1>
+      <FileSize>77984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\f_stl_files\f_k1.STL</FileName>
+      <SHA1>C819E36415D29B8B6F0A289236078F171BE43118</SHA1>
+      <FileSize>136884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\t_b1.STL</FileName>
+      <SHA1>0E0896397EC4A7DA485EDBE02CFE72C8A1BEB939</SHA1>
+      <FileSize>17784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\t_b2.STL</FileName>
+      <SHA1>BA8180FB1BD256486BAD39D219AD8B6B81FABAF9</SHA1>
+      <FileSize>19484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\t_b3.STL</FileName>
+      <SHA1>A32033CB838B56F09E43DD3F6DBCE7275F92F2F8</SHA1>
+      <FileSize>53884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\t_b4.STL</FileName>
+      <SHA1>28D7605C586068B7B820146B235D5C8FBCE1B851</SHA1>
+      <FileSize>55084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\t_b5.STL</FileName>
+      <SHA1>AFD8C1A01724523CEEB62B0F65CE3E3A2CB9610E</SHA1>
+      <FileSize>24584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\w_ac.STL</FileName>
+      <SHA1>E212A89EFBB0A065366A3E3BA7C44460BAA857C0</SHA1>
+      <FileSize>94884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\w_g1.STL</FileName>
+      <SHA1>D356F7E2C91690AF8FD31AEFFF62148CE83F32F3</SHA1>
+      <FileSize>152684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\w_g2.STL</FileName>
+      <SHA1>10BA7F4285EA4DAA46F4F3A042D2B3AC4719B21E</SHA1>
+      <FileSize>130184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\w_g3.STL</FileName>
+      <SHA1>1400A5B1C4801150775090C8B63E4732E4BAE845</SHA1>
+      <FileSize>131084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\w_p1.STL</FileName>
+      <SHA1>90B18D96E8B8B6DB9B2E25DCA8281716D5F7645E</SHA1>
+      <FileSize>281884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\assemtest.SLDASM</FileName>
+      <SHA1>DD6ECF075E5FAE5A82F5A51C8072EF898E67D415</SHA1>
+      <FileSize>1702813</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\awdadaw.SLDASM</FileName>
+      <SHA1>8A697BE26F93BA4B2A5540462C6781B60C787723</SHA1>
+      <FileSize>84158</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\t_b1.SLDPRT</FileName>
+      <SHA1>459E320F6CDC0BCC1FE633D77EA45BCC8D1527E7</SHA1>
+      <FileSize>103591</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\t_b2.SLDPRT</FileName>
+      <SHA1>3AEF264CF97AF052DA50777E34C712895D100462</SHA1>
+      <FileSize>59403</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\t_b3.SLDPRT</FileName>
+      <SHA1>112DD8689518CDC4CF7D0BE08E6514EF10E862DE</SHA1>
+      <FileSize>84581</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\t_b4.SLDPRT</FileName>
+      <SHA1>D2609280B87D11EAA15039596B830094C5445ED9</SHA1>
+      <FileSize>90262</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\t_b5.SLDPRT</FileName>
+      <SHA1>B15F3A5A31757F495FFA4E59E8D73D262DF69C1B</SHA1>
+      <FileSize>71222</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\t_block.SLDASM</FileName>
+      <SHA1>895EDCC0339B7E4C1E3E60FBDFDDCF5C72C9AE22</SHA1>
+      <FileSize>59188</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w1.SLDASM</FileName>
+      <SHA1>2FBF0AC0F7F78F8752BB0512DF59793AAA08E832</SHA1>
+      <FileSize>409310</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w2.SLDASM</FileName>
+      <SHA1>580027211D0CFBE375DC1406FDDD151D6BC459E5</SHA1>
+      <FileSize>378351</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\wrist_block_final.SLDASM</FileName>
+      <SHA1>1CA03F571FCDBB821E658417CD2A813582F6A5C8</SHA1>
+      <FileSize>3304077</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\wrist_block_test.SLDASM</FileName>
+      <SHA1>99131C7E9B8D14BA4A5697AC8D5F33236275D810</SHA1>
+      <FileSize>636187</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_ac.SLDPRT</FileName>
+      <SHA1>EA8A1CB2710AF8A6FB3632DAEF83E4E500BA7390</SHA1>
+      <FileSize>133313</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_g1.SLDPRT</FileName>
+      <SHA1>C87E82BCC5AA04A67AA70D88363E45665D850511</SHA1>
+      <FileSize>560903</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_g1_test.SLDPRT</FileName>
+      <SHA1>22AC8A578F9E7A7E2BA31499EAE58343A3173FD0</SHA1>
+      <FileSize>642144</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_g2.SLDPRT</FileName>
+      <SHA1>F110090A0AAD64914287F5239D7A32C27276BEF8</SHA1>
+      <FileSize>834639</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_g3.SLDPRT</FileName>
+      <SHA1>0F37137B742E50F33CBD2053F01B9A4DBC699DF1</SHA1>
+      <FileSize>1001858</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_p1.SLDPRT</FileName>
+      <SHA1>B31580AD027B701B08F154FB25C0E599C3100D1C</SHA1>
+      <FileSize>142642</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_t1.SLDPRT</FileName>
+      <SHA1>BE5CE061287EE7E3853A762882A0826ACC478089</SHA1>
+      <FileSize>290372</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_t1_test.SLDPRT</FileName>
+      <SHA1>6CDA0CA9D0C6FEFAC59AA86AE3CA925B340D13E5</SHA1>
+      <FileSize>394059</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_t3.SLDPRT</FileName>
+      <SHA1>095E29FBC28F118B52DBCE4D0399F91AE7361B84</SHA1>
+      <FileSize>457703</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_t4.sldprt</FileName>
+      <SHA1>72E11643C654B45EB318A45FAA0BC8A53D3A81AE</SHA1>
+      <FileSize>247019</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>.gitattributes</FileName>
+      <SHA1>C0BBC8F5931193D649C9D0AF3E02921B2C043900</SHA1>
+      <FileSize>395</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>.gitignore</FileName>
+      <SHA1>66B6776188B01111395989F0D66E77955264984B</SHA1>
+      <FileSize>696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>hand_model.SLDASM</FileName>
+      <SHA1>C8820B87E46AE648C92E6D4E447DD44C1C38EDA8</SHA1>
+      <FileSize>3319204</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common_parts\heat_sink_insert.SLDPRT</FileName>
+      <SHA1>7FD4A17463A67BA5C95D323C2B4416DB1165C036</SHA1>
+      <FileSize>861682</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common_parts\st_fh_sc_screw_4_40.SLDPRT</FileName>
+      <SHA1>894A54A26774FFB0DF6F425208E163BB4F67F0F1</SHA1>
+      <FileSize>483195</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common_parts\st_fh_sc_screw_8_32.SLDPRT</FileName>
+      <SHA1>B25A69E89433FA45BD62158D02300F747854CF9A</SHA1>
+      <FileSize>860964</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common_parts\st_hex_nut_2_56.SLDPRT</FileName>
+      <SHA1>AA4E5F8EBB80B3AA8D5F0FCF5189EE6D137C93F5</SHA1>
+      <FileSize>275030</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common_parts\st_sh_cscrew_2_56.SLDPRT</FileName>
+      <SHA1>25044D2E7BE7A1733D741F2B6B4F350992BB91E1</SHA1>
+      <FileSize>1032414</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common_parts\st_sh_screw_4_40.SLDPRT</FileName>
+      <SHA1>9DA284BA4780A2A2A3D824EDED5C39227600FA3E</SHA1>
+      <FileSize>512912</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\w_b1.STL</FileName>
+      <SHA1>7400B8688853F4158B956C15E624C0E7F7F8AE19</SHA1>
+      <FileSize>93684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\w_t1.STL</FileName>
+      <SHA1>EDD137F61AE1067EECCE3406056ACC40806F22D4</SHA1>
+      <FileSize>239884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\w_t2.STL</FileName>
+      <SHA1>CDA2D94840F74F2D080E3679AEB9877B156459B4</SHA1>
+      <FileSize>323684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\w_t3.STL</FileName>
+      <SHA1>3213F6482772A3CB2F343E7C8A2D6C141E3A416B</SHA1>
+      <FileSize>263684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>stl_files\w_stl_files\w_t4.STL</FileName>
+      <SHA1>8C0448E19CD44C84AA3EFE0BFD681E385D7EB685</SHA1>
+      <FileSize>236084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>README.md</FileName>
+      <SHA1>D7F4E8AD3C28A7A970174B38B5309D77F1267D8D</SHA1>
+      <FileSize>81</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common_parts\dowel_1_4x5_8.SLDPRT</FileName>
+      <SHA1>28BD1C5A26BC8AA7CB801EDEF3EB75DC10828E8E</SHA1>
+      <FileSize>93727</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common_parts\dowel_1_8x5_8.SLDPRT</FileName>
+      <SHA1>FCA009E8C06CE62A5DE10282AA5C3E3935655C75</SHA1>
+      <FileSize>72375</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\MX-28T.pdf</FileName>
+      <SHA1>C4B516D86F05DC74C7EE216DBB49A801470824C0</SHA1>
+      <FileSize>49435</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\f_d1.PDF</FileName>
+      <SHA1>5AF9F63839E8E689401C8171822CB5C463868CE7</SHA1>
+      <FileSize>48367</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\f_d1.SLDDRW</FileName>
+      <SHA1>7C7E0AEFAAED4597FC0490BC85B7F525D122098D</SHA1>
+      <FileSize>175174</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\f_k1.PDF</FileName>
+      <SHA1>D4BF72FF34BB7F994F4EC9E01744E6B41D7EE855</SHA1>
+      <FileSize>44134</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\f_k1.SLDDRW</FileName>
+      <SHA1>2606D8D9C2E10151E85B677DA1F6C3D4628A525B</SHA1>
+      <FileSize>132600</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\finger_block.PDF</FileName>
+      <SHA1>A090B46B686652628113FD035E2D817F252BE9C5</SHA1>
+      <FileSize>71762</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\finger_block.SLDDRW</FileName>
+      <SHA1>FD9948CC64B906EA7CF2FA340335170154576DAC</SHA1>
+      <FileSize>270812</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\hand_model.PDF</FileName>
+      <SHA1>E246DA2D254D5D4FF185B43722A416C98F4A425A</SHA1>
+      <FileSize>89013</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\hand_model.SLDDRW</FileName>
+      <SHA1>2FBDE106E376A734A769D68BCA278B6603EC2C6C</SHA1>
+      <FileSize>273758</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\pulley_MX-28.PDF</FileName>
+      <SHA1>77FA044259AE15CCEF58849D557F3EB8A0823F33</SHA1>
+      <FileSize>48152</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\pulley_MX-28.SLDDRW</FileName>
+      <SHA1>1C838597AF794E859491444F119F43B44D509216</SHA1>
+      <FileSize>155619</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\t_b1.PDF</FileName>
+      <SHA1>72CC2EAFB19F79867061DE77729A7590084B1D0F</SHA1>
+      <FileSize>34888</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\t_b1.SLDDRW</FileName>
+      <SHA1>DE9FF1AAB4EA6F32AF5CDB517E9D823EF6C71A96</SHA1>
+      <FileSize>117903</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\t_b2.PDF</FileName>
+      <SHA1>3E9AB6EBA86A97777707A7A30D04D1A39F2F0117</SHA1>
+      <FileSize>33992</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\t_b2.SLDDRW</FileName>
+      <SHA1>1E66F80CD1B2E169DD2831F225F6A09B8F04AE26</SHA1>
+      <FileSize>93867</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\t_b3.PDF</FileName>
+      <SHA1>CBB5CDBF9E6CF4FBD5724D611737C76E07ABB8D6</SHA1>
+      <FileSize>37689</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\t_b3.SLDDRW</FileName>
+      <SHA1>40EB38E918AEDB50FF8F6D03C21D021E6C6CEA81</SHA1>
+      <FileSize>110351</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\t_b4.PDF</FileName>
+      <SHA1>E2B7BD80ECFC40F9BE2C08892976EB1EA3E3F253</SHA1>
+      <FileSize>38234</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\t_b4.SLDDRW</FileName>
+      <SHA1>EBF428BEA6B58F94F3E62479EAA33370E880E42D</SHA1>
+      <FileSize>113952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\t_b5.PDF</FileName>
+      <SHA1>8729D76A0DBF65CDFD3AE879D5B27DB1B4CDB547</SHA1>
+      <FileSize>34751</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\t_b5.SLDDRW</FileName>
+      <SHA1>A2BEFDB32C52A933F5B173D0A5EB4F053B69E5AA</SHA1>
+      <FileSize>106883</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\t_block.PDF</FileName>
+      <SHA1>E3D34D138D7C5D05FEC39B6CD05A441DF0E6BA25</SHA1>
+      <FileSize>34383</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\t_block.SLDDRW</FileName>
+      <SHA1>CF4565AF286DCA87BACE5F4CC067363EF0148217</SHA1>
+      <FileSize>108493</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w1.PDF</FileName>
+      <SHA1>22B76D1675B55560457BE4C053EBE8261E622547</SHA1>
+      <FileSize>61912</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w1.SLDDRW</FileName>
+      <SHA1>D30BBBC1B7E30E4D6BD91B1DD9C569CEFF5DF0B3</SHA1>
+      <FileSize>183667</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w2.PDF</FileName>
+      <SHA1>200865DA371ED321575129CCA0CE972706D6ECD0</SHA1>
+      <FileSize>79289</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w2.SLDDRW</FileName>
+      <SHA1>3E126BF58BEE8F772A12EBE5F6E8869DDEE0B084</SHA1>
+      <FileSize>229460</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w_ac.PDF</FileName>
+      <SHA1>2EC48B04DC33FEA9B8DF2FEDB8E7261D5B83A601</SHA1>
+      <FileSize>35974</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w_ac.SLDDRW</FileName>
+      <SHA1>911218DB3C18AC9629DE3F0C7BC6EAA34DB40C61</SHA1>
+      <FileSize>127957</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w_b1.PDF</FileName>
+      <SHA1>41F26F4A6FA76691CFF51071F5A28E2319A8D362</SHA1>
+      <FileSize>40326</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w_b1.SLDDRW</FileName>
+      <SHA1>0F596F680C721192FFD58187F9C3B8B61F30528D</SHA1>
+      <FileSize>147207</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w_g2.PDF</FileName>
+      <SHA1>EF06500FF3B6BC0E054A3AA5A137EAA5112F85BE</SHA1>
+      <FileSize>53107</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w_g2.SLDDRW</FileName>
+      <SHA1>AD0226C795DDE1133CBD3C73E075C5912DF49C3A</SHA1>
+      <FileSize>147958</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w_p1.PDF</FileName>
+      <SHA1>DCACD7D8B70E705F52AE5DECA612694CB3A256FE</SHA1>
+      <FileSize>42199</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w_p1.SLDDRW</FileName>
+      <SHA1>FBFE7C5130D70CA3EF1A4EDA38001AC6AAFD41A9</SHA1>
+      <FileSize>144886</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w_t1_test.PDF</FileName>
+      <SHA1>33A6C26C65D7EAA8953D91640DAC939A666C28CC</SHA1>
+      <FileSize>50525</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w_t1_test.SLDDRW</FileName>
+      <SHA1>E8B3BF0B9B1633FFD4C40D554F493CE6C68B2ABF</SHA1>
+      <FileSize>173386</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w_t2.PDF</FileName>
+      <SHA1>C142B43C9DDE4880F63ABE19B75A57C86AD0BD03</SHA1>
+      <FileSize>53814</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\w_t2.SLDDRW</FileName>
+      <SHA1>62208981220887980A8BDDFCAB2DD546E7108090</SHA1>
+      <FileSize>175412</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\wrist_block_final.PDF</FileName>
+      <SHA1>432618C677B27EBFC77F83C749744221DB14E81B</SHA1>
+      <FileSize>114753</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>drawings\wrist_block_final.SLDDRW</FileName>
+      <SHA1>3E245DDC799074FBA23549C12AC2D792585953EB</SHA1>
+      <FileSize>399581</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>w_files\w_t3_test.SLDPRT</FileName>
+      <SHA1>5F25BE7E8BA58E3F116520AF0851A14A690B2594</SHA1>
+      <FileSize>381255</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
